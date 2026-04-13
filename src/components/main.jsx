@@ -30,7 +30,7 @@ const Hero = () => {
           <div className="hero-cta">
             <a href="#projects" className="btn btn-primary">View My Work</a>
             <a href="#contact" className="btn btn-outline">Get In Touch</a>
-            <a href="/Abin Roy (+91-9207432442).pdf" download="Abin_Roy_Resume.pdf" className="btn btn-resume">
+            <a href="/Abin_Roy_Resume.pdf" download="Abin_Roy_Resume.pdf" className="btn btn-resume">
               <svg viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M12 16l-5-5h3V4h4v7h3l-5 5zm9-1v4c0 1.1-.9 2-2 2H5c-1.1 0-2-.9-2-2v-4h2v4h14v-4h2z" /></svg>
               Resume
             </a>
